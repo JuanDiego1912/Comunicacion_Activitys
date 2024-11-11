@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Comunicacion_Activitys</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="introducir_texto">Introduce un usuario: </string>
+</resources>
